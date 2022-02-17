@@ -8,7 +8,7 @@ subtitle: ''
 description: '一个正在自学iOS的孝顺滴乖孩纸😂😂😂!'
 keywords:
 author: Along Li
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
@@ -102,4 +102,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+    type: git
+    repo:
+        github: git@github.com:lal603743923/lal603743923.github.io.git
+    branch: master
+
