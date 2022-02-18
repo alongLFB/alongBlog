@@ -106,4 +106,3 @@ deploy:
     repo:
         github: git@github.com:lal603743923/lal603743923.github.io.git
     branch: master
-
